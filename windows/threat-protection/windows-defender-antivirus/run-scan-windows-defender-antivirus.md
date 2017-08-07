@@ -49,7 +49,7 @@ In most instances, this means a quick scan is adequate to find malware that wasn
 A full scan can be useful on endpoints that have encountered a malware threat to identify if there are any inactive components that require a more thorough clean-up, and can be ideal when running on-demand scans.
 
 
-**Use the mpcmdrum.exe command-line utility to run a scan:**
+**Use the mpcmdrun.exe command-line utility to run a scan:**
 
 Use the following `-scan` parameter:
 
